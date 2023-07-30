@@ -1,0 +1,26 @@
+{
+  "name": "project-blogging-site",
+  "version": "1.0.0",
+  "description": "Blogging site Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunandasharma61/Project-Blogging-site.git"
+  },
+  "author": "Sunanda Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunandasharma61/Project-Blogging-site/issues"
+  },
+  "homepage": "https://github.com/sunandasharma61/Project-Blogging-site#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
